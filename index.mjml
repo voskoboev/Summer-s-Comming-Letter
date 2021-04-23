@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-title>Summer Letter</mj-title>
+    <mj-preview>Summer Letter</mj-preview>
+    <mj-style>
+      table, tr, td {
+        margin: 0;
+        padding: 0;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="640px" background-color="#F0F2EA">
+
+    <mj-section>
+      <mj-column padding-top="40px">
+        <mj-image src="https://i.ibb.co/f9dHJKt/logo.png" width="408px" height="100px" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Arial" font-size="14px" text-transform="uppercase" color="#636758">
+          what is the most fascinating thing about summer?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-hero background-url="https://i.ibb.co/ySnWDrM/sheeps.jpg">
+
+      <mj-text text-transform="uppercase" color="#ffffff" font-size="36px" align="center" padding-top="126px" padding-bottom="15px" letter-spacing="4px" font-weight="700">
+        summer‘s coming
+      </mj-text>
+      <mj-divider width="100px" padding-bottom="15px" border-width="2px" border-style="solid" border-color="#ffffff" />
+      <mj-text align="center" padding-bottom="150px" text-transform="uppercase" font-size="14px" color="#ffffff" letter-spacing="3px" font-family="Arial" font-weight="500">
+        trimm your sheeps
+      </mj-text>
+
+    </mj-hero>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="24px" color="#484A43" text-transform="uppercase" letter-spacing="1px" font-weight="500" padding-top="30px" padding-bottom="0">
+          Best articles in this month
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+
+      <mj-column width="50%" padding-left="20px">
+
+        <mj-image src="https://i.ibb.co/XyJH06T/field.jpg" width="260px" height="150px" align="center" href="#" />
+
+        <mj-text color="#6D7E44" font-size="14px" font-weight="600" line-height="18px" font-family="Arial">
+          What is it like to be young and free minded in North Korea
+        </mj-text>
+
+        <mj-text color="#333333" font-size="12px" font-weight="400" line-height="18px" font-family="Arial" padding-top="0">
+          Fusce amet ligula ornare tempus vulputate ipsum semper. Praesent non lorem odio. Fusce sed dui massa, eu viverra erat.
+        </mj-text>
+
+
+
+      </mj-column>
+
+      <mj-column width="50%">
+
+        <mj-image src="https://i.ibb.co/PcYmCJR/hay.jpg" width="260px" height="150px" align="left" href="#" />
+
+        <mj-text color="#6D7E44" font-size="14px" font-weight="600" line-height="18px" font-family="Arial">
+          Mysterious rolls in the fields
+        </mj-text>
+
+        <mj-text color="#333333" font-size="12px" font-weight="400" line-height="18px" font-family="Arial" padding-top="0">
+          Fusce amet ligula ornare tempus vulputate ipsum semper. Praesent non lorem odio. Fusce sed dui massa, eu viverra erat.
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+
+
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/YtJ8q0h/pier.jpg" width="540px" height="220px" align="center" href="#" />
+        <mj-text color="#6D7E44" font-size="14px" font-weight="600" line-height="18px" font-family="Arial" padding="10px 50px">
+          Life‘s like Vertigo comic books
+        </mj-text>
+
+        <mj-text color="#333333" font-size="12px" font-weight="400" line-height="18px" font-family="Arial" padding="0 50px">
+          Fusce amet ligula ornare tempus vulputate ipsum semper. Praesent non lorem odio. Fusce sed dui massa, eu viverra erat.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider width="100%" padding="0 50px" border-width="3px" border-style="solid" border-color="#f3f3f3" align="center" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%" padding="0 25px">
+        <mj-text color="#333333" font-size="12px" font-weight="600" font-family="Arial" padding-top="0">
+          Brannon & Douglas, Inc.
+        </mj-text>
+
+
+      </mj-column>
+
+      <mj-column width="50%">
+
+      </mj-column>
+
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
